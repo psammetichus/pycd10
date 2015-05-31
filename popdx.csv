@@ -1,0 +1,133 @@
+ICD9  ICD10 Desc  Incl  Excl1 Excl2 Codealso  UseAddl
+794.02	R94.01	Abnormal electroencephalogram [EEG]	No	No	No	No	No
+V80.09	Z13.858	Encounter for screening for other nervous system disorders	No	No	No	No	No
+781.2	R26.9	Unspecified abnormalities of gait and mobility	No	No	No	No	No
+307.81	G44.209	Tension-type headache, unspecified, not intractable	Tension headache NOS	No	No	No	No
+780.79	R53.1	Weakness	Asthenia NOS	age-related weakness (R54)	No	No	No
+434.91	I63.50	Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebral artery	No	No	No	No	No
+356.9	G60.9	Hereditary and idiopathic neuropathy, unspecified	No	No	No	No	No
+368.9	H53.9	Unspecified visual disturbance	No	No	No	No	No
+434.11	I63.40	Cerebral infarction due to embolism of unspecified cerebral artery	No	No	No	No	No
+780.93	R41.3	Other amnesia	Amnesia NOS	amnestic disorder due to known physiologic condition (F04)	No	No	No
+723.1	M54.2	Cervicalgia	No	cervicalgia due to intervertebral cervical disc disorder (M50.-)	No	No	No
+368.2	H53.2	Diplopia	Double vision	No	No	No	No
+333.1	G25.0	Essential tremor	Familial tremor	tremor NOS (R25.1)	No	No	No
+437.3	I67.1	Cerebral aneurysm, nonruptured	Cerebral aneurysm NOS	congenital cerebral aneurysm, nonruptured (Q28.-)	No	No	No
+794.09	R94.02	Abnormal brain scan	No	No	No	No	No
+331.83	G31.84	Mild cognitive impairment, so stated	No	age related cognitive decline (R41.81)	No	No	No
+377.49	H47.099	Other disorders of optic nerve, not elsewhere classified, unspecified eye	No	No	No	No	No
+729.5	M79.609	Pain in unspecified limb	Pain in limb NOS	No	No	No	No
+435.9	G45.9	Transient cerebral ischemic attack, unspecified	Spasm of cerebral artery	No	No	No	No
+729.1	M79.1	Myalgia	Myofascial pain syndrome	fibromyalgia (M79.7)	No	No	No
+345.91	G40.919	Epilepsy, unspecified, intractable, without status epilepticus	No	No	No	No	No
+333.83	G24.3	Spasmodic torticollis	No	congenital torticollis (Q68.0)	No	No	No
+355.9	G58.9	Mononeuropathy, unspecified	No	No	No	No	No
+794.17	R94.131	Abnormal electromyogram [EMG]	No	electromyogram of eye (R94.113)	No	No	No
+348.2	G93.2	Benign intracranial hypertension	No	hypertensive encephalopathy (I67.4)	No	No	No
+781.3	R27.9	Unspecified lack of coordination	No	No	No	No	No
+427.31	I48.91	Unspecified atrial fibrillation	No	No	No	No	No
+345.41	G40.219	Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, intractable, without status epilepticus	No	No	No	No	No
+780.09	R40.0	Somnolence	Drowsiness	coma (R40.2-)	No	No	No
+724.4	M54.17	Radiculopathy, lumbosacral region	No	No	No	No	No
+333.94	G25.81	Restless legs syndrome	No	No	No	No	No
+268.9	E55.9	Vitamin D deficiency, unspecified	Avitaminosis D	No	No	No	No
+724.5	M54.9	Dorsalgia, unspecified	Backache NOS	No	No	No	No
+386.11	H81.13	Benign paroxysmal vertigo, bilateral	No	No	No	No	No
+368.8	H53.8	Other visual disturbances	No	No	No	No	No
+339.11	G44.219	Episodic tension-type headache, not intractable	Episodic tension-type headache NOS	No	No	No	No
+350.1	G50.0	Trigeminal neuralgia	Syndrome of paroxysmal facial pain	No	No	No	No
+348.31	G93.41	Metabolic encephalopathy	Septic encephalopathy	No	No	No	No
+333.2	G25.3	Myoclonus	Drug-induced myoclonus	facial myokymia (G51.4)	No	No	code for adverse effect, if applicable, to identify drug (T36-T50 with fifth or sixth character 5)
+336.9	G95.9	Disease of spinal cord, unspecified	Myelopathy NOS	No	No	No	No
+728.87	M62.81	Muscle weakness (generalized)	No	No	No	No	No
+343.9	G80.9	Cerebral palsy, unspecified	Cerebral palsy NOS	No	No	No	No
+780.02	R40.4	Transient alteration of awareness	No	No	No	No	No
+434.01	I63.30	Cerebral infarction due to thrombosis of unspecified cerebral artery	No	No	No	No	No
+724.2	M54.5	Low back pain	Loin pain	low back strain (S39.012)	No	No	No
+225.2	D32.0	Benign neoplasm of cerebral meninges	No	No	No	No	No
+227.3	D35.2	Benign neoplasm of pituitary gland	No	No	No	No	No
+729.2	M54.10	Radiculopathy, site unspecified	No	No	No	No	No
+333.81	G24.5	Blepharospasm	No	drug induced blepharospasm (G24.01)	No	No	No
+346.11	G43.019	Migraine without aura, intractable, without status migrainosus	No	No	No	No	No
+310.2	F07.81	Postconcussional syndrome	Postcontusional syndrome (encephalopathy)	current concussion (brain) (S06.0-)	No	No	code to identify associated post-traumatic headache, if applicable (G44.3-)
+433.11	I63.239	Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid arteries	No	No	No	No	No
+368.41	H53.419	Scotoma involving central area, unspecified eye	No	No	No	No	No
+368.46	H53.469	Homonymous bilateral field defects, unspecified side	Homonymous bilateral field defects NOS	No	No	No	No
+359.1	G71.0	Muscular dystrophy	Autosomal recessive, childhood type, muscular dystrophy resembling Duchenne or Becker muscular dystrophy	No	No	No	No
+368.45	H53.489	Generalized contraction of visual field, unspecified eye	No	No	No	No	No
+780.57	G47.30	Sleep apnea, unspecified	Sleep apnea NOS	No	No	No	No
+377.41	H47.019	Ischemic optic neuropathy, unspecified eye	No	No	No	No	No
+780.52	G47.00	Insomnia, unspecified	Insomnia NOS	No	No	No	No
+327.23	G47.33	Obstructive sleep apnea (adult) (pediatric)	No	obstructive sleep apnea of newborn (P28.3)	No	No	No
+378.54	H49.20	Sixth [abducent] nerve palsy, unspecified eye	No	No	No	No	No
+339.42	G44.52	New daily persistent headache (NDPH)	No	No	No	No	No
+354.2	G56.20	Lesion of ulnar nerve, unspecified upper limb	No	No	No	No	No
+379.41	H57.02	Anisocoria	No	No	No	No	No
+368.44	H53.459	Other localized visual field defect, unspecified eye	No	No	No	No	No
+351.8	G51.8	Other disorders of facial nerve	No	No	No	No	No
+350.2	G50.1	Atypical facial pain	No	No	No	No	No
+723.4	M54.12	Radiculopathy, cervical region	No	No	No	No	No
+780.97	R41.82	Altered mental status, unspecified	Change in mental status NOS	altered level of consciousness (R40.-)	No	No	No
+356.1	G60.0	Hereditary motor and sensory neuropathy	Charcot-Marie-Tooth disease	No	No	No	No
+379.91	H57.13	Ocular pain, bilateral	No	No	No	No	No
+784.51	R47.1	Dysarthria and anarthria	No	dysarthria following cerebrovascular disease (I69. with final characters -22)	No	No	No
+346.01	G43.119	Migraine with aura, intractable, without status migrainosus	No	No	No	No	No
+378.87	H51.8	Other specified disorders of binocular movement	No	No	No	No	No
+339.12	G44.229	Chronic tension-type headache, not intractable	Chronic tension-type headache NOS	No	No	No	No
+337.9	G90.9	Disorder of the autonomic nervous system, unspecified	No	No	No	No	No
+266.2	E53.8	Deficiency of other specified B group vitamins	Biotin deficiency	folate deficiency anemia (D52.-)	No	No	No
+333.6	G24.1	Genetic torsion dystonia	Dystonia deformans progressiva	No	No	No	No
+378.52	H49.00	Third [oculomotor] nerve palsy, unspecified eye	No	No	No	No	No
+378.53	H49.10	Fourth [trochlear] nerve palsy, unspecified eye	No	No	No	No	No
+596.54	N31.9	Neuromuscular dysfunction of bladder, unspecified	Neurogenic bladder dysfunction NOS	No	No	No	No
+294.8	F06.8	Other specified mental disorders due to known physiological condition	Epileptic psychosis NOS	No	No	No	No
+333.82	G24.4	Idiopathic orofacial dystonia	Orofacial dyskinesia	drug induced orofacial dyskinesia (G24.01)	No	No	No
+432.1	I62.00	Nontraumatic subdural hemorrhage, unspecified	No	No	No	No	No
+191.9	C71.9	Malignant neoplasm of brain, unspecified	No	No	No	No	No
+377.31	H46.00	Optic papillitis, unspecified eye	No	No	No	No	No
+376.21	H05.89	Other disorders of orbit	No	No	No	No	No
+728.85	M62.838	Other muscle spasm	No	No	No	No	No
+307.23	F95.2	Tourette's disorder	Combined vocal and multiple motor tic disorder [de la Tourette]	No	No	No	No
+327.42	G47.52	REM sleep behavior disorder	No	No	No	No	No
+784.3	R47.01	Aphasia	No	aphasia following cerebrovascular disease (I69. with final characters -20)	No	No	No
+728.9	M62.9	Disorder of muscle, unspecified	No	No	No	No	No
+345.51	G40.119	Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, intractable, without status epilepticus	No	No	No	No	No
+345.3	G40.301	Generalized idiopathic epilepsy and epileptic syndromes, not intractable, with status epilepticus	No	No	No	No	No
+724.02	M48.06	Spinal stenosis, lumbar region	No	No	No	No	No
+359.9	G72.9	Myopathy, unspecified	No	No	No	No	No
+345.11	G40.419	Other generalized epilepsy and epileptic syndromes, intractable, without status epilepticus	No	No	No	No	No
+722.4	M50.30	Other cervical disc degeneration, unspecified cervical region	No	No	No	No	No
+747.81	Q28.2	Arteriovenous malformation of cerebral vessels	Arteriovenous malformation of brain NOS	No	No	No	No
+780.1	R44.3	Hallucinations, unspecified	No	No	No	No	No
+346.1	G43.009	Migraine without aura, not intractable, without status migrainosus	Migraine without aura NOS	No	No	No	No
+340	G35	Multiple sclerosis	Disseminated multiple sclerosis	No	No	No	No
+368.4	H53.40	Unspecified visual field defects	No	No	No	No	No
+345.9	G40.909	Epilepsy, unspecified, not intractable, without status epilepticus	Epilepsy NOS	No	No	No	No
+346.9	G43.909	Migraine, unspecified, not intractable, without status migrainosus	Migraine NOS	No	No	No	No
+780.4	R42	Dizziness and giddiness	Light-headedness	vertiginous syndromes (H81.-)	No	No	No
+780.2	R55	Syncope and collapse	Blackout	cardiogenic shock (R57.0)	No	No	No
+348.3	G93.40	Encephalopathy, unspecified	No	No	No	No	No
+339.1	G44.209	Tension-type headache, unspecified, not intractable	Tension headache NOS	No	No	No	No
+436	I67.89	Other cerebrovascular disease	No	No	No	No	No
+311	F32.9	Major depressive disorder, single episode, unspecified	Depression NOS	No	No	No	No
+401.9	I10	Essential (primary) hypertension	No	hypertensive disease complicating pregnancy, childbirth and the puerperium (O10-O11, O13-O16)	essential (primary) hypertension involving vessels of brain (I60-I69)	No	No
+433.1	I65.29	Occlusion and stenosis of unspecified carotid artery	No	No	No	No	No
+346.2	G43.809	Other migraine, not intractable, without status migrainosus	No	No	No	No	No
+431	I61.9	Nontraumatic intracerebral hemorrhage, unspecified	No	No	No	No	No
+430	I60.9	Nontraumatic subarachnoid hemorrhage, unspecified	No	No	No	No	No
+377.3	H46.9	Unspecified optic neuritis	No	No	No	No	No
+349.82	G92	Toxic encephalopathy	Toxic encephalitis	No	No	No	No
+345.4	G40.209	Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, not intractable, without status epilepticus	Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures NOS	No	No	No	No
+345.1	G40.309	Generalized idiopathic epilepsy and epileptic syndromes, not intractable, without status epilepticus	Generalized idiopathic epilepsy and epileptic syndromes NOS	No	No	No	No
+290.4	F01.50	Vascular dementia without behavioral disturbance	No	No	No	No	No
+315.9	F89	Unspecified disorder of psychological development	Developmental disorder NOS	No	No	No	No
+345.5	G40.109	Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, not intractable, without status epilepticus	Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures NOS	No	No	No	No
+374.3	H02.409	Unspecified ptosis of unspecified eyelid	No	No	No	No	No
+346.7	G43.709	Chronic migraine without aura, not intractable, without status migrainosus	Chronic migraine without aura NOS	No	No	No	No
+298.9	F29	Unspecified psychosis not due to a substance or known physiological condition	Psychosis NOS	mental disorder NOS (F99)	No	No	No
+787.2	R13.10	Dysphagia, unspecified	Difficulty in swallowing NOS	No	No	No	No
+294.2	F03.90	Unspecified dementia without behavioral disturbance	Dementia NOS	No	No	No	No
+333.4	G10	Huntington's disease	Huntington's chorea	No	No	No	No
+342.9	G81.90	Hemiplegia, unspecified affecting unspecified side	No	No	No	No	No
+780.5	G47.9	Sleep disorder, unspecified	Sleep disorder NOS	No	No	No	No
+335.2	G12.21	Amyotrophic lateral sclerosis	Progressive spinal muscle atrophy	No	No	No	No
